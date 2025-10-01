@@ -61,6 +61,8 @@ project-root/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com//your-repo-name.git
+   git clone https://github.com//Blog_Management_App.git
+   npm istall
+   npm run dev
 
 
