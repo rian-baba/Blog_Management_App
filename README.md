@@ -19,20 +19,20 @@ The project follows clean architecture principles with separaaddte **frontend** 
 ## 📂 Folder Structure
 
 project-root/
-├── public/ # Static assets
-├── src/
-│        ├── assets/ # Images, icons, fonts
-│        ├── components/ # Reusable UI components
-│        ├── layouts/ # AuthLayout & Main layouts
-│        ├── pages/ # Page-level components
-│        ├── hooks/ # Custom React hooks
-│        ├── lib/ # Utility functions & services
-│        ├── App.jsx # Root App component
-│        └── main.jsx # Application entry point
-├── .gitignore
-├── package.json
-├── README.md
-└── vite.config.js
+          ├── public/ # Static assets
+          ├── src/
+          │        ├── assets/ # Images, icons, fonts
+          │        ├── components/ # Reusable UI components
+          │        ├── layouts/ # AuthLayout & Main layouts
+          │        ├── pages/ # Page-level components
+          │        ├── hooks/ # Custom React hooks
+          │        ├── lib/ # Utility functions & services
+          │        ├── App.jsx # Root App component
+          │        └── main.jsx # Application entry point
+          | .gitignore
+          | package.json
+          | README.md
+          | vite.config.js
 
 
 ---
